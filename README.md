@@ -1,0 +1,1 @@
+This is Danygusa's first git project!
